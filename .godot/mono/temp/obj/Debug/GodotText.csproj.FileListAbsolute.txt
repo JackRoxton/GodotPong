@@ -1,0 +1,17 @@
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\bin\Debug\GodotText.deps.json
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\bin\Debug\GodotText.runtimeconfig.json
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\bin\Debug\GodotText.dll
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\bin\Debug\GodotText.pdb
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\obj\Debug\GodotText.csproj.AssemblyReference.cache
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\obj\Debug\GodotText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\obj\Debug\GodotText.AssemblyInfoInputs.cache
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\obj\Debug\GodotText.AssemblyInfo.cs
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\obj\Debug\GodotText.csproj.CoreCompileInputs.cache
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\obj\Debug\GodotText.csproj.CopyComplete
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\obj\Debug\GodotText.dll
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\obj\Debug\refint\GodotText.dll
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\obj\Debug\GodotText.pdb
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\obj\Debug\GodotText.genruntimeconfig.cache
+C:\Users\GPro\Documents\workspace\Nouveau dossier\.godot\mono\temp\obj\Debug\ref\GodotText.dll

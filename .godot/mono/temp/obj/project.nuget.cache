@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iiuC5LZtYXDQy3aJPcK+8+i1K9igJp5LDgpP98WH7jcnMsGrjxxyYzOiRk/8PLgGNKwq6W2sGN2vD3f8M1Gpyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GPro\\Documents\\workspace\\Nouveau dossier\\GodotText.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GPro\\.nuget\\packages\\godot.sourcegenerators\\4.2.2\\godot.sourcegenerators.4.2.2.nupkg.sha512",
+    "C:\\Users\\GPro\\.nuget\\packages\\godotsharp\\4.2.2\\godotsharp.4.2.2.nupkg.sha512",
+    "C:\\Users\\GPro\\.nuget\\packages\\godotsharpeditor\\4.2.2\\godotsharpeditor.4.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
