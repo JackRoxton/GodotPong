@@ -38,7 +38,8 @@ public partial class ball : Area2D
 
 
 		EmitSignal(SignalName.Hit);
-		//GetNode<CollisionShape2D>("CollisionShape2D").SetDeferred(CollisionShape2D.PropertyName.Disabled, true);
-	}
+        // where did the ball hit ?
+        //get_slide_collision(i)
+    }
 
 }

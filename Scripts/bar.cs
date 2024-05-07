@@ -27,5 +27,8 @@ public partial class bar : RigidBody2D
 		Position += new Vector2(0, dir * speed * (float)delta);
 	}
 
+	//center, formula
 
 }
+
+
