@@ -5,3 +5,5 @@ res://Prefabs/ball.tscn
 res://Scripts/ball.cs
 res://Prefabs/test.tscn
 res://Prefabs/node_2d.tscn
+res://Scripts/bar.cs
+res://Prefabs/bar.cs

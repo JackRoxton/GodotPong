@@ -6,12 +6,12 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Ball" parent="." instance=ExtResource("1_b5f3i")]
-position = Vector2(566, 166)
+position = Vector2(568, 169)
 rotation = 0.0713075
 
-[node name="VBar" parent="." instance=ExtResource("2_l17a5")]
-position = Vector2(567, 487)
-rotation = -1.56548
-scale = Vector2(1, 5.48057)
+[node name="Bar" parent="." instance=ExtResource("2_l17a5")]
+position = Vector2(61, 271)
+rotation = 0.00222828
+scale = Vector2(1, 2.51951)
 lock_rotation = true
 freeze = true
